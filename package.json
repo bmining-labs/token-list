@@ -1,0 +1,12 @@
+{
+  "name": "token-list",
+  "version": "1.0.0",
+  "main": "build/tokenlist.json",
+  "scripts": {
+    "build": "rimraf build && mkdir -p build && node src/write.js > build/default.tokenlist.json",
+    "prepublishOnly": "npm test && npm run build"
+  },
+  "devDependencies": {
+    "rimraf": "^3.0.2"
+  }
+}

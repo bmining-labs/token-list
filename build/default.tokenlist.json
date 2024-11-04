@@ -1,0 +1,210 @@
+[
+  {
+    "name": "Ethereum",
+    "symbol": "ETH",
+    "icon_url": "https://token-icons.s3.amazonaws.com/eth.png",
+    "implementations": [
+      {
+        "chain": "base",
+        "address": "0",
+        "decimals": 18
+      },
+      {
+        "chain": "ethereum",
+        "address": "0",
+        "decimals": 18
+      }
+    ]
+  },
+  {
+    "name": "Wrapped Ether",
+    "symbol": "WETH",
+    "icon_url": "https://token-icons.s3.amazonaws.com/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png",
+    "implementations": [
+      {
+        "chain": "base",
+        "address": "0x4200000000000000000000000000000000000006",
+        "decimals": 18
+      },
+      {
+        "chain": "ethereum",
+        "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "decimals": 18
+      }
+    ]
+  },
+  {
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "icon_url": "https://token-icons.s3.amazonaws.com/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.png",
+    "implementations": [
+      {
+        "chain": "base",
+        "address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+        "decimals": 6
+      },
+      {
+        "chain": "bnb",
+        "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+        "decimals": 18
+      },
+      {
+        "chain": "ethereum",
+        "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+        "decimals": 6
+      },
+      {
+        "chain": "solana",
+        "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+        "decimals": 6
+      }
+    ]
+  },
+  {
+    "name": "Bitcoin",
+    "symbol": "BTC",
+    "icon_url": "https://token-icons.s3.amazonaws.com/btc.png",
+    "implementations": [
+      {
+        "chain": "bitcoin",
+        "address": "0",
+        "decimals": 8
+      }
+    ]
+  },
+  {
+    "name": "BNB",
+    "symbol": "BNB",
+    "icon_url": "https://token-icons.s3.amazonaws.com/0xb8c77482e45f1f44de1745f52c74426c631bdd52.png",
+    "implementations": [
+      {
+        "chain": "bnb",
+        "address": "0",
+        "decimals": 18
+      },
+      {
+        "chain": "ethereum",
+        "address": "0xB8c77482e45F1F44dE1745F52C74426C631bDD52",
+        "decimals": 18
+      }
+    ]
+  },
+  {
+    "name": "Wrapped BNB",
+    "symbol": "WBNB",
+    "icon_url": "https://token-icons.s3.amazonaws.com/0xb8c77482e45f1f44de1745f52c74426c631bdd52.png",
+    "implementations": [
+      {
+        "chain": "bnb",
+        "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+        "decimals": 18
+      }
+    ]
+  },
+  {
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "icon_url": "https://token-icons.s3.amazonaws.com/0xdac17f958d2ee523a2206206994597c13d831ec7.png",
+    "implementations": [
+      {
+        "chain": "bnb",
+        "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+        "decimals": 18
+      },
+      {
+        "chain": "ethereum",
+        "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "decimals": 6
+      },
+      {
+        "chain": "solana",
+        "address": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+        "decimals": 6
+      }
+    ]
+  },
+  {
+    "name": "Dogecoin",
+    "symbol": "DOGE",
+    "icon_url": "https://static.oklink.com/cdn/assets/imgs/235/A88713FFDD1F50CC.png?x-oss-process=image/format,webp/resize,w_72,h_72,type_6/ignore-error,1",
+    "implementations": [
+      {
+        "chain": "dogecoin",
+        "address": "0",
+        "decimals": 8
+      }
+    ]
+  },
+  {
+    "name": "Solana",
+    "symbol": "SOL",
+    "icon_url": "https://token-icons.s3.amazonaws.com/11111111111111111111111111111111.png",
+    "implementations": [
+      {
+        "chain": "solana",
+        "address": "0",
+        "decimals": 9
+      }
+    ]
+  },
+  {
+    "name": "Wrapped SOL",
+    "symbol": "WSOL",
+    "icon_url": "https://token-icons.s3.amazonaws.com/So11111111111111111111111111111111111111112.png",
+    "implementations": [
+      {
+        "chain": "solana",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    ]
+  },
+  {
+    "name": "Jito Staked SOL",
+    "symbol": "JitoSOL",
+    "icon_url": "https://storage.googleapis.com/token-metadata/JitoSOL-256.png",
+    "implementations": [
+      {
+        "chain": "solana",
+        "address": "J1toso1uCk3RLmjorhTtrVwY9HJ7X8V9yYac6Y7kGCPn",
+        "decimals": 9
+      }
+    ]
+  },
+  {
+    "name": "Jupiter",
+    "symbol": "JUP",
+    "icon_url": "https://static.jup.ag/jup/icon.png",
+    "implementations": [
+      {
+        "chain": "solana",
+        "address": "JUPyiwrYJFskUPiHa7hkeR8VUtAeFoSYbKedZNsDvCN",
+        "decimals": 6
+      }
+    ]
+  },
+  {
+    "name": "dogwifhat",
+    "symbol": "$WIF",
+    "icon_url": "https://dd.dexscreener.com/ds-data/tokens/solana/EKpQGSJtjMFqKZ9KQanSqYXRcF8fBopzLHYxdM65zcjm.png",
+    "implementations": [
+      {
+        "chain": "solana",
+        "address": "EKpQGSJtjMFqKZ9KQanSqYXRcF8fBopzLHYxdM65zcjm",
+        "decimals": 6
+      }
+    ]
+  },
+  {
+    "name": "POPCAT",
+    "symbol": "POPCAT",
+    "icon_url": "https://dd.dexscreener.com/ds-data/tokens/solana/MEW1gQWJ3nEXg2qgERiKu7FAFj79PHvQVREQUzScPP5.png",
+    "implementations": [
+      {
+        "chain": "solana",
+        "address": "7GCihgDB8fe6KNjn2MYtkzZcRjQy3t9GHdC8uHYmW2hr",
+        "decimals": 9
+      }
+    ]
+  }
+]

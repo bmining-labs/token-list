@@ -1,0 +1,58 @@
+[
+  {
+    "address": "0",
+    "name": "Solana",
+    "symbol": "SOL",
+    "decimals": 9,
+    "icon_url": "https://token-icons.s3.amazonaws.com/11111111111111111111111111111111.png"
+  },
+  {
+    "address": "So11111111111111111111111111111111111111112",
+    "name": "Wrapped SOL",
+    "symbol": "WSOL",
+    "decimals": 9,
+    "icon_url": "https://token-icons.s3.amazonaws.com/So11111111111111111111111111111111111111112.png"
+  },
+  {
+    "address": "J1toso1uCk3RLmjorhTtrVwY9HJ7X8V9yYac6Y7kGCPn",
+    "name": "Jito Staked SOL",
+    "symbol": "JitoSOL",
+    "decimals": 9,
+    "icon_url": "https://storage.googleapis.com/token-metadata/JitoSOL-256.png"
+  },
+  {
+    "address": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "decimals": 6,
+    "icon_url": "https://token-icons.s3.amazonaws.com/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB.png"
+  },
+  {
+    "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "decimals": 6,
+    "icon_url": "https://token-icons.s3.amazonaws.com/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png"
+  },
+  {
+    "address": "JUPyiwrYJFskUPiHa7hkeR8VUtAeFoSYbKedZNsDvCN",
+    "name": "Jupiter",
+    "symbol": "JUP",
+    "decimals": 6,
+    "icon_url": "https://static.jup.ag/jup/icon.png"
+  },
+  {
+    "address": "EKpQGSJtjMFqKZ9KQanSqYXRcF8fBopzLHYxdM65zcjm",
+    "name": "dogwifhat",
+    "symbol": "$WIF",
+    "decimals": 6,
+    "icon_url": "https://dd.dexscreener.com/ds-data/tokens/solana/EKpQGSJtjMFqKZ9KQanSqYXRcF8fBopzLHYxdM65zcjm.png"
+  },
+  {
+    "address": "7GCihgDB8fe6KNjn2MYtkzZcRjQy3t9GHdC8uHYmW2hr",
+    "name": "POPCAT",
+    "symbol": "POPCAT",
+    "decimals": 9,
+    "icon_url": "https://dd.dexscreener.com/ds-data/tokens/solana/MEW1gQWJ3nEXg2qgERiKu7FAFj79PHvQVREQUzScPP5.png"
+  }
+]

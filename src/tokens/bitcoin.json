@@ -1,0 +1,9 @@
+[
+  {
+    "address": "0",
+    "name": "Bitcoin",
+    "symbol": "BTC",
+    "decimals": 8,
+    "icon_url": "https://token-icons.s3.amazonaws.com/btc.png"
+  }
+]

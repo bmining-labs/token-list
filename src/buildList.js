@@ -24,7 +24,7 @@ module.exports = function buildList() {
       name: merged[symbol][0].name,
       symbol: merged[symbol][0].symbol,
       icon_url: merged[symbol][0].icon_url,
-      implementations: merged[symbol].map((token) => {
+      deployments: merged[symbol].map((token) => {
         return {
           chain: token.chain,
           address: token.address,

@@ -14,6 +14,13 @@
     "icon_url": "https://token-icons.s3.amazonaws.com/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png"
   },
   {
+    "address": "0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84",
+    "name": "Lido Staked Ether",
+    "symbol": "stETH",
+    "decimals": 18,
+    "icon_url": "https://assets.coingecko.com/coins/images/13442/standard/steth_logo.png"
+  },
+  {
     "address": "0xB8c77482e45F1F44dE1745F52C74426C631bDD52",
     "name": "BNB",
     "symbol": "BNB",

@@ -1,0 +1,16 @@
+[
+  {
+    "address": "0",
+    "name": "Toncoin",
+    "symbol": "TON",
+    "decimals": 9,
+    "icon_url": "https://assets.coingecko.com/coins/images/17980/standard/photo_2024-09-10_17.09.00.jpeg"
+  },
+  {
+    "address": "EQCxE6mUtQJKFnGfaROTKOt1lZbDiiX1kCixRv7Nw2Id_sDs",
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "decimals": 6,
+    "icon_url": "https://token-icons.s3.amazonaws.com/0xdac17f958d2ee523a2206206994597c13d831ec7.png"
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "BTC": "bitcoin",
+  "DOGE": "dogecoin",
+  "ETH": "ethereum",
+  "WETH": "weth",
+  "stETH": "lido-staked-ether",
+  "TON": "toncoin",
+  "USDT": "tether",
+  "USDC": "usdc",
+  "BNB": "bnb",
+  "WBNB": "wbnb",
+  "SOL": "solana",
+  "WSOL": "solana",
+  "JitoSOL": "jito-staked-sol",
+  "POL": "pol-ex-matic",
+  "JUP": "jupiter",
+  "$WIF": "dogwifhat",
+  "POPCAT": "popcat"
+}

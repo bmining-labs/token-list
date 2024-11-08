@@ -19,11 +19,14 @@ module.exports = function buildList() {
     return acc;
   }, {});
 
+  const coingecko = require("./maps/coingecko.json");
+
   return Object.keys(merged).map((symbol) => {
     return {
       name: merged[symbol][0].name,
       symbol: merged[symbol][0].symbol,
       icon_url: merged[symbol][0].icon_url,
+      coingecko_id: coingecko[merged[symbol][0].symbol],
       deployments: merged[symbol].map((token) => {
         return {
           chain: token.chain,

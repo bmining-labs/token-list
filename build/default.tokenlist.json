@@ -102,7 +102,7 @@
     "name": "USD Coin",
     "symbol": "USDC",
     "icon_url": "https://token-icons.s3.amazonaws.com/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.png",
-    "coingecko_id": "usdc",
+    "coingecko_id": "usd-coin",
     "deployments": [
       {
         "chain": "arbitrum",
@@ -158,7 +158,7 @@
     "name": "BNB",
     "symbol": "BNB",
     "icon_url": "https://token-icons.s3.amazonaws.com/0xb8c77482e45f1f44de1745f52c74426c631bdd52.png",
-    "coingecko_id": "bnb",
+    "coingecko_id": "binancecoin",
     "deployments": [
       {
         "chain": "bnb",
@@ -202,7 +202,7 @@
     "name": "Lido Staked Ether",
     "symbol": "stETH",
     "icon_url": "https://assets.coingecko.com/coins/images/13442/standard/steth_logo.png",
-    "coingecko_id": "lido-staked-ether",
+    "coingecko_id": "staked-ether",
     "deployments": [
       {
         "chain": "ethereum",
@@ -215,7 +215,7 @@
     "name": "Polygon",
     "symbol": "POL",
     "icon_url": "https://token-icons.s3.amazonaws.com/0xb8c77482e45f1f44de1745f52c74426c631bdd52.png",
-    "coingecko_id": "pol-ex-matic",
+    "coingecko_id": "polygon-ecosystem-token",
     "deployments": [
       {
         "chain": "polygon",
@@ -267,7 +267,7 @@
     "name": "Jupiter",
     "symbol": "JUP",
     "icon_url": "https://static.jup.ag/jup/icon.png",
-    "coingecko_id": "jupiter",
+    "coingecko_id": "jupiter-exchange-solana",
     "deployments": [
       {
         "chain": "solana",
@@ -280,7 +280,7 @@
     "name": "dogwifhat",
     "symbol": "$WIF",
     "icon_url": "https://dd.dexscreener.com/ds-data/tokens/solana/EKpQGSJtjMFqKZ9KQanSqYXRcF8fBopzLHYxdM65zcjm.png",
-    "coingecko_id": "dogwifhat",
+    "coingecko_id": "dogwifcoin",
     "deployments": [
       {
         "chain": "solana",
@@ -306,7 +306,7 @@
     "name": "Toncoin",
     "symbol": "TON",
     "icon_url": "https://assets.coingecko.com/coins/images/17980/standard/photo_2024-09-10_17.09.00.jpeg",
-    "coingecko_id": "toncoin",
+    "coingecko_id": "the-open-network",
     "deployments": [
       {
         "chain": "ton",
